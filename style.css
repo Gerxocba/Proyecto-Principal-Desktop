@@ -229,9 +229,9 @@ a{color: white;}
 .ul-form{margin: 1rem; 
     padding: 1rem;}
 
-@media screen and (max-width: 380px){
+@media (max-width: 400px){
     
-    header{display: block; align-items: center; position: relative; max-width: 100%;}
+    header{display:block; align-items: center; position: relative; max-width: 100%;}
     nav{display: block; flex-grow: 1; margin-top: 1; position: relative; max-width: 100%; }
     section{display: block; align-items: center; position: relative; max-width: 100%;}  
     main{display: block; align-items: center; position: relative; max-width: 100%;} 
